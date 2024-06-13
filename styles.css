@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #25202A;
+    background-image: url('red.jpg');
+    background-size: cover;
+}
+
+header {
+    background-color: #1C1919;
+    color: #DB2626;
+    padding: 1em 0;
+    text-align: center;
+    border: 3px solid #CC2525;
+}
+
+nav a {
+    color: #DB2626;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.project, .post {
+    background-color: #00D4FF;
+    padding: 1em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+}
+
+h1, h2, h3 {
+    color: #CC2525;
+}
+
+a {
+    color: #CC2525;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 200px;
+    height: 350px;
+    border: 3px solid #CC2525;
+    border-radius: 5%;
+    margin-bottom: 10px
+}
+
+.container {
+    background-image: url('jpn.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #5B7B85;
+    border-radius: 100px;
+    border: 3px solid #CC2525;
+}
+
+.container2 {
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #1C1919;
+    border-radius: 100px;
+    border: 3px solid #CC2525;
+}
